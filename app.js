@@ -7,8 +7,8 @@ const perPage = 12;
 let calcOffers = { yours: [], theirs: [] };
 
 // CHANGE THESE THREE VALUES TO MATCH YOUR GITHUB REPO EXACTLY:
-const GITHUB_USER = "YOUR_USERNAME";
-const GITHUB_REPO = "YOUR_REPO_NAME";
+const GITHUB_USER = "Neonbiock";
+const GITHUB_REPO = "psx.values";
 const DATA_FILE = "data.json";
 
 // This pulls your pet data instantly out of GitHub's live database upon load
