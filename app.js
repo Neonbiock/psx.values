@@ -4,7 +4,7 @@
 // on wiring this up to a real backend if you want a shared/public admin.
 
 const seedPets = [
-  {id:1,name:"R", category:"Huges", variant:"Normal", value:125000000, demand:9, release:"2023-02-17", emoji:"🐱", change:12},
+  {id:1,name:"Rainbow Huge Cat", category:"Huges", variant:"Normal", value:125000000, demand:9, release:"2023-02-17", emoji:"🐱", change:12},
   {id:2,name:"HugDog", category:"Huges", variant:"Normal", value:98000000, demand:8, release:"2023-02-17", emoji:"🐶", change:-7},
   {id:3,name:"Hugragon", category:"Huges", variant:"Golden", value:225000000, demand:10, release:"2023-04-14", emoji:"🐲", change:8},
   {id:4,name:"Huge Lwdwaucky Cat", category:"Huges", variant:"Rainbow", value:410000000, demand:10, release:"2023-03-03", emoji:"😺", change:4},
